@@ -1,0 +1,36 @@
+# European Machinery Robots Configuration
+# https://www.european-machinery.ir
+
+User-agent: *
+Allow: /
+
+# Explicit AI & Generative Engine Crawlers (GEO / LLM indexing)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Cohere-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap & LLM context files
+Sitemap: https://www.european-machinery.ir/sitemap.xml
+# LLM Generative Engine Optimization resources:
+# llms.txt: https://www.european-machinery.ir/llms.txt
+# llms-full.txt: https://www.european-machinery.ir/llms-full.txt

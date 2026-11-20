@@ -1,0 +1,8 @@
+{
+  "name": "Remix European Machinery | یوروپین ماشینری",
+  "description": "وب‌سایت رسمی بازرگانی و واردات مستقیم ماشین‌آلات صنعتی نو و دست‌دوم از اروپا و آمریکا با کاتالوگ جستجوی پیشرفته، استعلام CFR و پنل مدیریت آسان",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
